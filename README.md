@@ -6,5 +6,7 @@ Program ini menggunakan bahasa C++ yang merupakan sebuah aplikasi manajemen peme
 
 -> Struktur Data yang Digunakan :
 CDLLOjol (Circular Doubly Linked List Ojol): Digunakan untuk menyimpan daftar ojol.
+
 DLLPenumpang (Doubly Linked List Penumpang): Digunakan untuk menyimpan daftar penumpang.
+
 Pesanan (Linked List dalam setiap node Ojol): Digunakan untuk menyimpan daftar pesanan yang terkait dengan ojol dan penumpang.
