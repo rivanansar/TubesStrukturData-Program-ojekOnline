@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1673174095 source:d:\c++ project\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\main.cpp
+	"ojol.h"
+
+1673174071 d:\c++ project\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\ojol.h
+	<iostream>
+	"stdlib.h"
+
+1673174095 source:d:\c++ project\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\ojol.cpp
+	"ojol.h"
+
+1673306780 source:c:\users\acer\downloads\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\main.cpp
+	"ojol.h"
+
+1673189702 c:\users\acer\downloads\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\ojol.h
+	<iostream>
+	"stdlib.h"
+
+1673189702 source:c:\users\acer\downloads\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\tubesojol_std_rivan fauzan(1301210554)_heryoka kurniawan(1301210108)\ojol.cpp
+	"ojol.h"
+
